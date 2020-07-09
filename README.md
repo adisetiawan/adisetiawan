@@ -1,16 +1,21 @@
-### Hi there 👋
+## About me
 
-<!--
-**adisetiawan/adisetiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full stack developer more than 20 years in web development industries: open source CMS, mobile app development, API, app scaling strategies and tech startup consulting services.
 
-Here are some ideas to get you started:
+> Currently focus on blockchain, dApps, distributed database and P2P solution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### [InaCode Indonesia](https://inacode.id)
+
+> Our mission is to help Indonesian to learn programming and computer science without any prior knowledge. We're creating videos, tutorial, online courses and interactive lessons in Bahasa Indonesia. 
+
+### unchain - coming soon
+
+> Resources for blockchain developer with in-depth tutorial and blockchain developer news
+
+### Non-profit community works:
+
+* Bali startup community
+* Bali blockchain developer
+* BaliJS
