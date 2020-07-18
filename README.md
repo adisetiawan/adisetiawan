@@ -1,9 +1,3 @@
-## About me
-
-Full stack developer more than 20 years in web development industries: open source CMS, mobile app development, API, app scaling strategies and tech startup consulting services.
-
-> Currently focus on blockchain, dApps, distributed database and P2P solution.
-
 ## Projects
 
 ### [InaCode Indonesia](https://inacode.id)
