@@ -1,6 +1,6 @@
 ## Projects
 
-### [InaCode Indonesia](https://inacode.id)
+### [InaCode](https://inacode.dev)
 
 > Our mission is to help Indonesian to learn programming and computer science without any prior knowledge. We're creating videos, tutorial, online courses and interactive lessons in Bahasa Indonesia. 
 
