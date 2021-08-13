@@ -1,12 +1,6 @@
 ## Projects
 
-### [InaCode](https://inacode.dev)
-
-> Our mission is to help Indonesian to learn programming and computer science without any prior knowledge. We're creating videos, tutorial, online courses and interactive lessons in Bahasa Indonesia. 
-
-### unchain - coming soon
-
-> Resources for blockchain developer with in-depth tutorial and blockchain developer news
+coming soon
 
 ### Non-profit community works:
 
