@@ -8,4 +8,4 @@
 * Bali blockchain developer
 * BaliJS
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=adisetiawan&theme=gruvbox)]
+![trophy](https://github-profile-trophy.vercel.app/?username=adisetiawan&theme=gruvbox)
