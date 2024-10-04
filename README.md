@@ -1,6 +1,3 @@
-## Projects
-
-* htmxscript.com
 
 ### Non-profit community works:
 
